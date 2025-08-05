@@ -60,9 +60,9 @@ Telco-Customer-Churn-Prediction/
 
 ## 🏆 Results
 
-- **Best Model:** Random Forest  
-- **Test Accuracy:** 0.7983  
-- **Test ROC AUC:** 0.8369  
+- **Best Model:** logistic Regression 
+- **Test Accuracy:**  0.7978
+- **Test ROC AUC:** 0.8460  
 ![alt text](image-1.png)
 
 The model can accurately identify customers at risk of churning, enabling targeted retention strategies.
@@ -119,3 +119,4 @@ https://github.com/qosain-bukhari/Telco-Customer-Churn-Prediction
 
 
 This project is for educational purposes. Please refer to the [Kaggle dataset license](https://www.kaggle.com/blastchar/telco-customer-churn) for data usage terms.
+
